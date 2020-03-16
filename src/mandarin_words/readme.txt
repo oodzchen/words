@@ -1,0 +1,1 @@
+数据抓取自 https://en.wiktionary.org/wiki/Appendix:Mandarin_Frequency_lists

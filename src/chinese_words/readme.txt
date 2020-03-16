@@ -1,0 +1,1 @@
+数据来自： https://github.com/liangqi/chinese-frequency-word-list
